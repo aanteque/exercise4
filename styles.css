@@ -1,0 +1,24 @@
+h1 {
+  font-family: Tahoma, sans-serif;
+  background-color:SlateBlue;
+  width: 300px;
+  padding: 5px;
+}
+
+h2 {
+  font-family: Tahoma, sans-serif;
+  background-color:Violet;
+  width: 300px;
+  padding: 5px;
+}
+
+p {
+  font-family: 'Times New Roman', serif;
+  background-color:Orange;
+  width: 500px;
+  padding: 15px;
+}
+
+a {
+  color: Indigo;
+}
